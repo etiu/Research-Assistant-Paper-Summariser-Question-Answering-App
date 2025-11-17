@@ -45,13 +45,13 @@ Clone the repository:
 ```bash
 git clone https://github.com/etiu/Research-Assistant-Paper-Summariser-Question-Answering-App.git
 cd research-assistant
-
+```
 
 ## Install Dependencies
 
 ```bash
 pip install -r requirements.txt
-
+```
 
 ## Required Setup
 
@@ -62,8 +62,10 @@ Follow these instructions:
 1. Create a folder called ".streamlit" inside your project
 2. Inside this folder, create a new file called "secrets.toml"
 3. Paste the following into the file and replace the placeholder text with your own OPENAI API KEY.
+```
 [api_keys]
 openai="YOUR_OPENAI_API_KEY"
+```
 
 NOTE: This toml file must stay private and not uploaded to github.
 
@@ -85,3 +87,7 @@ Research Assistant – Paper Summariser & Question Answering App
  ┣ app2.py
  ┣ requirements.txt
  ┗ README.md
+
+## Notes
+This app is meant for research papers and the answers will depend on the content of uploaded PDFs.
+
