@@ -7,10 +7,10 @@ A Streamlit-powered AI tool for reading, summarising, and querying research pape
 
 The **Research Assistant App** helps researchers, students, and professionals quickly understand academic papers. Instead of manually reading long PDFs, the app allows users to:
 
-✔️ Upload one or more research papers  
-✔️ Generate structured AI summaries  
-✔️ Ask questions based on the uploaded documents  
-✔️ Receive grounded answers with citations  
+- Upload one or more research papers  
+- Generate structured AI summaries  
+- Ask questions based on the uploaded documents  
+- Receive grounded answers with citations  
 
 ---
 
