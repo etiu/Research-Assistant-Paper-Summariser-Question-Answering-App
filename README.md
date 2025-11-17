@@ -71,8 +71,9 @@ NOTE: This toml file must stay private and not uploaded to github.
 ## Run the application
 On your terminal, run the app using this command:
 
+```
 streamlit run app2.py
-
+```
 
 The app will open in your browser at:
 
@@ -80,12 +81,14 @@ http://localhost:8501/
 
 ## Folder structure
 
+```
 Research Assistant – Paper Summariser & Question Answering App
  ┣ .streamlit
  ┃ ┗ secrets.toml
  ┣ app2.py
  ┣ requirements.txt
  ┗ README.md
+```
 
 ## Notes
 This app is meant for research papers and the answers will depend on the content of uploaded PDFs.
