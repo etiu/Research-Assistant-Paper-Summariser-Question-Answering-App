@@ -14,20 +14,20 @@ The **Research Assistant App** helps researchers, students, and professionals qu
 
 ---
 
-## 🧠 Key Features  
+## Key Features  
 
 | Feature | Description |
 |--------|------------|
-| 📄 Multi-PDF Upload | Supports multiple research papers at once |
-| 🧩 Smart Chunking | Splits papers into embedding-friendly text blocks |
-| 📝 AI Summary | Short, detailed, or bullet-style summaries |
-| 💬 Conversation Mode | Ask follow-up questions — works like a chatbot |
-| 🔍 Source Citations | Shows which section of the paper the answer came from |
-| 💾 Download Transcript | Export the chat as a text file |
+| Multi-PDF Upload | Supports multiple research papers at once |
+| Smart Chunking | Splits papers into embedding-friendly text blocks |
+| AI Summary | Short, detailed, or bullet-style summaries |
+| Conversation Mode | Ask follow-up questions — works like a chatbot |
+| Source Citations | Shows which section of the paper the answer came from |
+| Download Transcript | Export the chat as a text file |
 
 ---
 
-## 🧰 Tech Stack  
+## Tech Stack  
 
 - Python 3.10+
 - Streamlit
