@@ -1,0 +1,20 @@
+# Ignore Streamlit secrets
+.streamlit/
+
+# Ignore environment files
+*.env
+.env
+
+# Ignore Python cache and virtual environments
+__pycache__/
+*.pyc
+venv/
+env/
+protein_env/
+
+# Optional: ignore macOS junk files
+.DS_Store
+
+#
+Research-Assistant-Paper-Summariser-Question-Answering-App.git.bfg-report/
+Research-Assistant-Paper-Summariser-Question-Answering-App.git/
