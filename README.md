@@ -38,7 +38,7 @@ The **Research Assistant App** helps researchers, students, and professionals qu
 
 ---
 
-## 📦 Installation  
+## Installation  
 
 Clone the repository:
 
